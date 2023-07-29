@@ -1,2 +1,2 @@
 # ToDoListApp
-A to-do list web application
+A To-do list web application
